@@ -1,1 +1,1 @@
-"# git-open-course" 
+# This is a README
